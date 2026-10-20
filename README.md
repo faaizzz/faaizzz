@@ -56,11 +56,7 @@ flowchart LR
 
 A self-hosted app that reads the feeds, pages and searches you care about and turns them into a scheduled, multi-speaker AI podcast with its own RSS feed, playable in Apple Podcasts or Spotify. Bring any LLM and voice provider, or run it all locally for free.
 
-<p align="center">
-  <a href="https://github.com/faaizzz/faaizzz/blob/main/media/byop-demo.mp4"><img src="media/byop-demo-poster.jpg" width="260" alt="BYOP demo video: Now build your own"/></a>
-  <br/>
-  <a href="https://github.com/faaizzz/faaizzz/blob/main/media/byop-demo.mp4"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20demo-49%20seconds-ff6b6b?style=for-the-badge" alt="Watch the 49-second demo"/></a>
-</p>
+https://github.com/user-attachments/assets/9588637a-7267-4471-95b9-a75f81cb8ecf
 
 ```mermaid
 flowchart LR
